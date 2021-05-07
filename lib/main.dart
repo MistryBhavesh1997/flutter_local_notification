@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState() {
     // TODO: implement initState
-
+print("");
     super.initState();
     var androidInit = new AndroidInitializationSettings('app_icon');
     var iosInit = new IOSInitializationSettings();
